@@ -42,6 +42,7 @@ btntow.addEventListener('click',function(){
     }else if(x==y){
         win.innerHTML="Player Two Win!"
         Playertow.style.display = 'none'
+        become.style.display='none'
         
     } else if(clik==5 && x!=y){
         
